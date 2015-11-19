@@ -11,4 +11,4 @@ For .NET 4.5: http://alexfeng2015.blob.core.windows.net/share/SqlConnectivityTes
 
 For .NET 2.0: http://alexfeng2015.blob.core.windows.net/share/SqlConnectivityTester.DotNet20.zip
 
-For any feedback, please reach me via alex_feng@outlook.com
+Any feedback, please reach me via alex_feng@outlook.com
